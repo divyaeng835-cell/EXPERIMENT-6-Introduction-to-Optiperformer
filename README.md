@@ -82,7 +82,8 @@ The system includes:
 
 ## Graphs
 
-![WhatsApp Image 2025-11-27 at 20 54 01_43c0108c](https://github.com/user-attachments/assets/d24f2054-eff9-49ec-b290-9a52338bfdd4)
+![WhatsApp Image 2025-11-28 at 10 22 06_605d8e99](https://github.com/user-attachments/assets/e17dd122-9c06-4b33-a421-8484d0fe7f41)
+
 
 ---
 
